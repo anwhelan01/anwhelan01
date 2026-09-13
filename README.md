@@ -4,12 +4,12 @@
 
 **AI SSAG Architect** · Security, Safety & Governance for agentic AI
 
-Liverpool, UK · `tonywhelan.ai@gmail.com`
+Europe - UK - Nepal · `tonywhelan.ai@gmail.com`
 
 <p>
   <img src="https://img.shields.io/badge/Focus-AI_SSAG-0f172a?style=for-the-badge&labelColor=020617" alt="AI SSAG" />
   <img src="https://img.shields.io/badge/Foundation-ISO%2FIEC_27001_path-1d4ed8?style=for-the-badge&labelColor=020617" alt="ISO 27001 path" />
-  <img src="https://img.shields.io/badge/UK-Liverpool-334155?style=for-the-badge&labelColor=020617" alt="UK" />
+  <img src="https://img.shields.io/badge/Nepal-Europe-334155?style=for-the-badge&labelColor=020617" alt="NP" />
 </p>
 
 I help SMEs adopt AI that can plan and act — with clear controls over **what it can see, what it can do, what it must escalate, and how actions are evidenced.**
